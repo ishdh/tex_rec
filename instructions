@@ -1,0 +1,5 @@
+python text_localization.py --image <image path>
+to use a phone:
+capture the image from the mobile
+transfer to pc
+use the above command using the path of the image
